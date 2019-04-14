@@ -1,0 +1,22 @@
+{
+  "name": "desafio-codenation",
+  "version": "1.0.0",
+  "description": "Criptografia de Júlio César",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaellcoellho/desafio-codenation.git"
+  },
+  "author": "rafaellcoellho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaellcoellho/desafio-codenation/issues"
+  },
+  "homepage": "https://github.com/rafaellcoellho/desafio-codenation#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
