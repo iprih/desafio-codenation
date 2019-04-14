@@ -35,10 +35,10 @@ Antes de iniciar, dar aquele bom e velho:
 $ npm install
 ```
 
-Para rodar em desenvolvimento:
+Para rodar:
 
 ```bash
-$ npm run serve
+$ node run go
 ```
 
 ## Autor 

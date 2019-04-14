@@ -4,7 +4,7 @@
   "description": "Criptografia de Júlio César",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "go": "node src/index.js"
   },
   "repository": {
     "type": "git",
