@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rafaellcoellho/desafio-codenation#readme",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "form-data": "^2.3.3"
   }
 }
