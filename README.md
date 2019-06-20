@@ -18,7 +18,7 @@ __Cifrado__: 1d.d
 Escrever programa, em qualquer linguagem de programação, que faça uma requisição HTTP para a url abaixo:
 
 ```
-https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=0435cde572fdbd58a23c7abc7ea52e22af0e03ae 
+https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=0435cde572fdbd58a23c7abc7ea52e2
 ```
 
 ## :wrench: Tecnologias 
